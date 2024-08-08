@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interaction
+  - FadeImage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - UI-Fade
+  - UI-Text
+  - NoPassing
+  - UI-Dialogue
+  - UI-Phone
+  - UI-Button
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3461469451
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 226039487
+    locked: 0
+  - name: UnderObject
+    uniqueID: 3166894261
+    locked: 0
+  - name: Character
+    uniqueID: 1828840459
+    locked: 0
+  - name: AboveObject
+    uniqueID: 3976123391
+    locked: 0
+  - name: UI-Fade
+    uniqueID: 682140915
+    locked: 0
+  - name: UI-Text
+    uniqueID: 3395265257
+    locked: 0
+  - name: UI-Dialogue
+    uniqueID: 367918057
+    locked: 0
+  - name: UI-Phone
+    uniqueID: 3991342883
+    locked: 0
+  - name: UI-Button
+    uniqueID: 4257926375
+    locked: 0
