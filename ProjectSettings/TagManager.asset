@@ -2,10 +2,18 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags:
   - Interaction
   - FadeImage
+  - WebGLBtn
+  - OnlyOneTouch
+  - NeverTouch
+  - EndingEnd
+  - Information
+  - CloseBtn
+  - OnlyOneEvent
+  - Label
   layers:
   - Default
   - TransparentFX
@@ -19,8 +27,8 @@ TagManager:
   - UI-Dialogue
   - UI-Phone
   - UI-Button
-  - 
-  - 
+  - Obstacle
+  - BlueEye
   - 
   - 
   - 
@@ -73,3 +81,5 @@ TagManager:
   - name: UI-Button
     uniqueID: 4257926375
     locked: 0
+  m_RenderingLayers:
+  - Default
